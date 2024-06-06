@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Tienda https://enderhosting.com.mx/","Tu servidor, nuestro compromiso"];
+const statusMessages = ["Tienda https://enderhosting.com.mx/","Tu servidor, nuestro compromiso","No te arrepentiras 😉"];
 
 
 let currentIndex = 0;
