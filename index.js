@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Tienda https://enderhosting.com.mx/","EnderHosting"];
 
 
 let currentIndex = 0;
